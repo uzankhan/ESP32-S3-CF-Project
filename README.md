@@ -1,11 +1,5 @@
 # 🌍 IoT Smart Street Light & Environmental Monitoring System
 
-[![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F2A?style=for-the-badge&logo=platformio&logoColor=white)](https://platformio.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/uzankhan/CITYFLOW-IoT)](https://github.com/uzankhan/CITYFLOW-IoT/stargazers)
-
 ---
 
 ## 📌 Overview
@@ -88,7 +82,7 @@ CITYFLOW-IoT
 ```bash
 git clone https://github.com/uzankhan/CITYFLOW-IoT.git
 cd CITYFLOW-IoT
-
+```
 ---
 
 2. Install Required Libraries (Arduino IDE)
