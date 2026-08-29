@@ -1,0 +1,5 @@
+# settings.toml - Secure credentials storage
+WIFI_SSID = "TECH-FLEX"
+WIFI_PASSWORD = "121techflex"
+CHANNEL_ID = 3456566
+WRITE_API_KEY = "8C86B60BD9AU524Z"  # CHANGE THIS!

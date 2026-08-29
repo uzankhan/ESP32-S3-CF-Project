@@ -1,0 +1,6 @@
+Adafruit CircuitPython 10.2.1 on 2026-05-13; VCC-GND YD-ESP32-S3 (N16R8) with ESP32S3
+Board ID:yd_esp32_s3_n16r8
+UID:0A583E8EE283
+MAC:00:00:00:00:60:B2
+boot.py output:
+boot.py executed - USB endpoints saved!
