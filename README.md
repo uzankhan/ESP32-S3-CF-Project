@@ -106,7 +106,6 @@ Open CITYFLOW-IoT.ino
 
 Click Upload
 
-![Uploading deepseek_mermaid_20260829_0af329.svg…]()
 
 📊 Real-World Applications
 Use Case	Description
@@ -115,6 +114,8 @@ Industrial Automation	Automated lighting in warehouses
 Home Automation	Smart garage/driveway lighting
 Environmental Monitoring	Gas leak detection in industrial zones
 Security Systems	Motion-triggered surveillance integration
+
+
 🔧 Troubleshooting Common Issues
 Problem	Solution
 LCD Not Displaying	Check I2C address (0x27 or 0x3F) & contrast potentiometer
@@ -123,6 +124,8 @@ HC-SR04 Not Reading	Add voltage divider on ECHO pin (1kΩ+2kΩ)
 DHT11 Reading Failed	Check DATA pin wiring & pull-up resistor
 ESP32 Not Uploading	Press BOOT button while uploading
 Relay Not Triggering	Check relay module is active-low or active-high type
+
+
 🔬 Future Enhancements
 □ Wi-Fi Connectivity — Send data to cloud (AWS/Azure/ThingSpeak)
 □ Mobile App — Control and monitor via React Native app
@@ -130,6 +133,8 @@ Relay Not Triggering	Check relay module is active-low or active-high type
 □ AI/ML — Predictive maintenance using historical sensor data
 □ LoRaWAN — Long-range communication for remote deployments
 □ Solar Power — Solar panel integration for off-grid operation
+
+
 🤝 Contributing
 We welcome contributions! Please follow these steps:
 
